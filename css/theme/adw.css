@@ -23,7 +23,7 @@ body {
   background: -ms-radial-gradient(center, circle cover, #555a5f 0%, #1c1e20 100%);
   background: radial-gradient(center, circle cover, #555a5f 0%, #1c1e20 100%);
   background-color: #2b2b2b;
-  background-image: url(http://localhost/sketches_adw/img/noise1.png)
+  background-image: url(../../img/noise1.png)
 }
 
 
